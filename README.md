@@ -53,14 +53,14 @@ Be sure to look at the `.env.local` file for what a valid example looks like.
 
 # Source Code Rundown
 ## Server Source Code
-You can find the source code for the server in the [server](./server) directory.
+You can find the source code for the server in the [server](./Server) directory.
 > The applicable `dat` and `wz` files are not included.
 
 ## Auth Hook Source Code
 You can find the source code for the server auth hook in the [auth_hook](./auth_hook) directory.
 
 ## Launcher Source Code
-You can find the source code and applicable README for the custom launcher in the [launcher](./launcher) directory.
+You can find the source code and applicable README for the custom launcher in the [launcher](./Launcher) directory.
 
 # Installation
 ## Requirements
