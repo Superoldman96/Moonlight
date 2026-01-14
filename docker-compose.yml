@@ -49,6 +49,7 @@ services:
     volumes:
       - ./scripts:/app/scripts
       - ./logs:/app/logs
+      - ./Server/wz:/app/Server/wz
 
 volumes:
   mysql_data:
